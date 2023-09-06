@@ -1,0 +1,23 @@
+.thrones{
+    font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+    position: relative;
+    
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1gbbsds*_ga*MDcwNzM0NjE3Mi4xNjkzMDU4MjE3*_ga_3LRZM6TM9L*MTY5MzkxMTYzMC4zNC4xLjE2OTM5MTE2NTEuMzkuMC4w
+    );}
+.teryak{
+    background-color: indianred;
+    width: 100%;
+}
+
+
+h1{
+    background-color: hotpink;
+    width: 100%;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
